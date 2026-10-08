@@ -14,3 +14,6 @@ const Payment ="Integrated the payment gateway";
 console.log(Payment);
 
 console.log("latest update");
+
+//I am fixing some Bug
+console.log("Bug fixed");
